@@ -1,0 +1,1 @@
+Implemented a linear algebra equation solver. This is done using Guassian elimination to reduce a matrix to its row echelon form. In fact,  it to reduces row echelon form to assist with the final solving step called back substitution.
